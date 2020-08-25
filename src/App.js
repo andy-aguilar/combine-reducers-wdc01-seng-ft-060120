@@ -10,7 +10,7 @@ export class App extends Component {
     return (
       <div className="App">
         <div>
-          <h2>Authors</h2>
+          <h2>Authors </h2>
           <AuthorInput />
           <Authors />
         </div>
